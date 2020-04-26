@@ -1,13 +1,9 @@
 ## Table of contents
-Introduction
-
-Data Acquisition
-
-Data Wrangling
-
-Data Exploration
-
-Model Development
+* [Introduction: Business Problem](#introduction)
+* [Data Acquisition](#Data_Acquisition)
+* [Data Wrangling](#Data_Wrangling)
+* [Data Exploration](#Data_Exploration)
+* [Model Development](#Model_Development)
 
 ## Data Acquisition
 Downloaded data from the IBM Cloud object for data analysis.
